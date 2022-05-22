@@ -12,7 +12,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
+    @Test//1
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
